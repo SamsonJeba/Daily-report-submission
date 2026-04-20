@@ -1,4 +1,4 @@
-# DailyLog — Daily Submission Tracker
+
 
 A full-stack MERN application built with Vite + TypeScript + Tailwind CSS + Redux Toolkit.
 
